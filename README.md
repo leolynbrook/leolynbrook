@@ -1,6 +1,6 @@
 -  Hi, I’m @leolynbrook
 -   I’m interested in python3 html and javascript
-- 🌱 I’m currently learning javascript
+-  I’m currently learning javascript
 - I’m looking to collaborate on ...
 -  How to reach me : please contact shovskyleo@gmail.com 
 
