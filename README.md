@@ -8,3 +8,8 @@
 leolynbrook/leolynbrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
+<!--
+sofor is a orginization that leolynbrook owns .
+A few other people are close to owning the orginization
+
+---->
